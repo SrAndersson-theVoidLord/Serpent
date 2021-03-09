@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1614100961 source:c:\users\usuario\desktop\facultad\2019\laboratorio\tp2\proyectos en c++(github)\serpent\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"Headers/Rlutil.h"
+	"Headers/Funciones.h"
+
+1614100984 c:\users\usuario\desktop\facultad\2019\laboratorio\tp2\proyectos en c++(github)\serpent\headers\funciones.h
+
+1614018373 c:\users\usuario\desktop\facultad\2019\laboratorio\tp2\proyectos en c++(github)\serpent\headers\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
